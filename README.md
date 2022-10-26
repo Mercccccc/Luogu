@@ -1,1 +1,3 @@
-# leetcode
+# luogu
+
+for learning algorithm
